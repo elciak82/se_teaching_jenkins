@@ -1,0 +1,13 @@
+[se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA] Running shell script
++ make test
+PYTHONPATH=. py.test
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.13, pytest-3.5.0, py-1.5.3, pluggy-0.6.0
+rootdir: /var/jenkins_home/workspace/se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA, inifile:
+plugins: cov-2.5.1
+collected 3 items
+
+test/test_formater.py .                                                  [ 33%]
+test/test_views.py ..                                                    [100%]
+
+=========================== 3 passed in 0.11 seconds ===========================

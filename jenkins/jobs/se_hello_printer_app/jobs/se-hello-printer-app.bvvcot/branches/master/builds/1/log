@@ -1,0 +1,133 @@
+Branch indexing
+[8mha:////4I7EZ5ZcJFuqK+BpKuymwPgeiogv81ckrtpQzhaR1+lnAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrZXMwGhoqORjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+Obtained Jenkinsfile from cddf85097a9a0a6fe0bcff83e7ae71b042da3a2a
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] node
+Running on [8mha:////4MCHgjJQmNHGgc0cVmB2RO2mNJBscCpnC2IcAtC2+7bFAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /var/jenkins_home/workspace/se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] {
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] stage
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] checkout
+Cloning the remote Git repository
+Cloning with configured refspecs honoured and without tags
+Cloning repository https://github.com/elciak82/se_hello_printer_app.git
+ > git init /var/jenkins_home/workspace/se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA # timeout=10
+Fetching upstream changes from https://github.com/elciak82/se_hello_printer_app.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --no-tags --progress https://github.com/elciak82/se_hello_printer_app.git +refs/heads/master:refs/remotes/origin/master
+ > git config remote.origin.url https://github.com/elciak82/se_hello_printer_app.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master # timeout=10
+ > git config remote.origin.url https://github.com/elciak82/se_hello_printer_app.git # timeout=10
+Fetching without tags
+Fetching upstream changes from https://github.com/elciak82/se_hello_printer_app.git
+using GIT_ASKPASS to set credentials 
+ > git fetch --no-tags --progress https://github.com/elciak82/se_hello_printer_app.git +refs/heads/master:refs/remotes/origin/master
+Checking out Revision cddf85097a9a0a6fe0bcff83e7ae71b042da3a2a (master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f cddf85097a9a0a6fe0bcff83e7ae71b042da3a2a
+Commit message: "aktualizacja pliku README"
+First time build. Skipping changelog.
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // stage
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] withEnv
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] {
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] stage
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] { (Test)
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA] Running shell script
++ make deps
+pip install -r requirements.txt; \
+pip install -r test_requirements.txt
+Collecting flask (from -r requirements.txt (line 1))
+  Downloading Flask-0.12.2-py2.py3-none-any.whl (83kB)
+Collecting gunicorn (from -r requirements.txt (line 2))
+  Downloading gunicorn-19.7.1-py2.py3-none-any.whl (111kB)
+Collecting itsdangerous>=0.21 (from flask->-r requirements.txt (line 1))
+  Downloading itsdangerous-0.24.tar.gz (46kB)
+Collecting click>=2.0 (from flask->-r requirements.txt (line 1))
+  Downloading click-6.7-py2.py3-none-any.whl (71kB)
+Collecting Werkzeug>=0.7 (from flask->-r requirements.txt (line 1))
+  Downloading Werkzeug-0.14.1-py2.py3-none-any.whl (322kB)
+Collecting Jinja2>=2.4 (from flask->-r requirements.txt (line 1))
+  Downloading Jinja2-2.10-py2.py3-none-any.whl (126kB)
+Collecting MarkupSafe>=0.23 (from Jinja2>=2.4->flask->-r requirements.txt (line 1))
+  Downloading MarkupSafe-1.0.tar.gz
+Building wheels for collected packages: itsdangerous, MarkupSafe
+  Running setup.py bdist_wheel for itsdangerous: started
+  Running setup.py bdist_wheel for itsdangerous: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/fc/a8/66/24d655233c757e178d45dea2de22a04c6d92766abfb741129a
+  Running setup.py bdist_wheel for MarkupSafe: started
+  Running setup.py bdist_wheel for MarkupSafe: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/88/a7/30/e39a54a87bcbe25308fa3ca64e8ddc75d9b3e5afa21ee32d57
+Successfully built itsdangerous MarkupSafe
+Installing collected packages: itsdangerous, click, Werkzeug, MarkupSafe, Jinja2, flask, gunicorn
+Successfully installed Jinja2-2.10 MarkupSafe-1.0 Werkzeug-0.14.1 click-6.7 flask-0.12.2 gunicorn-19.7.1 itsdangerous-0.24
+Collecting mock (from -r test_requirements.txt (line 1))
+  Downloading mock-2.0.0-py2.py3-none-any.whl (56kB)
+Collecting pytest (from -r test_requirements.txt (line 2))
+  Downloading pytest-3.5.0-py2.py3-none-any.whl (194kB)
+Collecting flake8 (from -r test_requirements.txt (line 3))
+  Downloading flake8-3.5.0-py2.py3-none-any.whl (69kB)
+Collecting pytest-cov (from -r test_requirements.txt (line 4))
+  Downloading pytest_cov-2.5.1-py2.py3-none-any.whl
+Requirement already satisfied: six>=1.9 in /usr/lib/python2.7/dist-packages (from mock->-r test_requirements.txt (line 1))
+Collecting funcsigs>=1; python_version < "3.3" (from mock->-r test_requirements.txt (line 1))
+  Downloading funcsigs-1.0.2-py2.py3-none-any.whl
+Collecting pbr>=0.11 (from mock->-r test_requirements.txt (line 1))
+  Downloading pbr-4.0.1-py2.py3-none-any.whl (97kB)
+Collecting pluggy<0.7,>=0.5 (from pytest->-r test_requirements.txt (line 2))
+  Downloading pluggy-0.6.0.tar.gz
+Collecting attrs>=17.4.0 (from pytest->-r test_requirements.txt (line 2))
+  Downloading attrs-17.4.0-py2.py3-none-any.whl
+Collecting more-itertools>=4.0.0 (from pytest->-r test_requirements.txt (line 2))
+  Downloading more_itertools-4.1.0-py2-none-any.whl (47kB)
+Requirement already satisfied: setuptools in /usr/lib/python2.7/dist-packages (from pytest->-r test_requirements.txt (line 2))
+Collecting py>=1.5.0 (from pytest->-r test_requirements.txt (line 2))
+  Downloading py-1.5.3-py2.py3-none-any.whl (84kB)
+Collecting mccabe<0.7.0,>=0.6.0 (from flake8->-r test_requirements.txt (line 3))
+  Downloading mccabe-0.6.1-py2.py3-none-any.whl
+Requirement already satisfied: enum34; python_version < "3.4" in /usr/lib/python2.7/dist-packages (from flake8->-r test_requirements.txt (line 3))
+Collecting configparser; python_version < "3.2" (from flake8->-r test_requirements.txt (line 3))
+  Downloading configparser-3.5.0.tar.gz
+Collecting pycodestyle<2.4.0,>=2.0.0 (from flake8->-r test_requirements.txt (line 3))
+  Downloading pycodestyle-2.3.1-py2.py3-none-any.whl (45kB)
+Collecting pyflakes<1.7.0,>=1.5.0 (from flake8->-r test_requirements.txt (line 3))
+  Downloading pyflakes-1.6.0-py2.py3-none-any.whl (227kB)
+Collecting coverage>=3.7.1 (from pytest-cov->-r test_requirements.txt (line 4))
+  Downloading coverage-4.5.1-cp27-cp27mu-manylinux1_x86_64.whl (199kB)
+Building wheels for collected packages: pluggy, configparser
+  Running setup.py bdist_wheel for pluggy: started
+  Running setup.py bdist_wheel for pluggy: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/df/44/8e/e136760ae525eac46b3e3db643ef58ff1753177b5a722b0c96
+  Running setup.py bdist_wheel for configparser: started
+  Running setup.py bdist_wheel for configparser: finished with status 'done'
+  Stored in directory: /root/.cache/pip/wheels/1c/bd/b4/277af3f6c40645661b4cd1c21df26aca0f2e1e9714a1d4cda8
+Successfully built pluggy configparser
+Installing collected packages: funcsigs, pbr, mock, pluggy, attrs, more-itertools, py, pytest, mccabe, configparser, pycodestyle, pyflakes, flake8, coverage, pytest-cov
+Successfully installed attrs-17.4.0 configparser-3.5.0 coverage-4.5.1 flake8-3.5.0 funcsigs-1.0.2 mccabe-0.6.1 mock-2.0.0 more-itertools-4.1.0 pbr-4.0.1 pluggy-0.6.0 py-1.5.3 pycodestyle-2.3.1 pyflakes-1.6.0 pytest-3.5.0 pytest-cov-2.5.1
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] sh
+[se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA] Running shell script
++ make test
+PYTHONPATH=. py.test
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.13, pytest-3.5.0, py-1.5.3, pluggy-0.6.0
+rootdir: /var/jenkins_home/workspace/se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA, inifile:
+plugins: cov-2.5.1
+collected 3 items
+
+test/test_formater.py .                                                  [ 33%]
+test/test_views.py ..                                                    [100%]
+
+=========================== 3 passed in 0.11 seconds ===========================
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // stage
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // withEnv
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] }
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] // node
+[8mha:////4D8PRcOZa7ozYMpDbDqcJl0IelUe0qw5EMk/0rGkN+BCAAAAaB+LCAAAAAAAAP9b85aBtbiIwTG/KF0vKzUvOzOvODlTryCnNB3I0ivPL8pOy8kv18vKT9JLzs8rzs9J1QuHCgaV5jlDhPzyS1IZIICRiYGhoohBKqM0pTg/D64Hh8ICAFt0h+h/AAAA[0m[Pipeline] End of Pipeline
+
+GitHub has been notified of this commit’s build result
+
+Finished: SUCCESS

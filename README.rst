@@ -34,8 +34,13 @@ Related
   - klik nowy projekt,
   - wpisz nazwę projektu,
   - wybierz organization,
-  - OWNER - nazwa uzytkownika z hithuba
+  - OWNER - nazwa uzytkownika z githuba
   - klik Add wybierz Jankins
   - wpisz uzytkownika i hasło z githuba (wymarz to co jest) bez ID i description
   - klik Add
   - klik save
+
+5. Zbudowało się
+  - klik na status
+  - klik na projekt
+  - klik na master

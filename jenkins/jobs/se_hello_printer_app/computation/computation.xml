@@ -1,0 +1,15 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.branch.OrganizationFolder_-OrganizationScan plugin="branch-api@2.0.19">
+  <actions/>
+  <result>
+    <name>SUCCESS</name>
+    <ordinal>0</ordinal>
+    <color>BLUE</color>
+    <completeBuild>true</completeBuild>
+  </result>
+  <durations>
+    <long>8860</long>
+  </durations>
+  <timestamp>1523187108340</timestamp>
+  <duration>8860</duration>
+</jenkins.branch.OrganizationFolder_-OrganizationScan>

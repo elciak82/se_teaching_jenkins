@@ -1,0 +1,20 @@
+Cloning the remote Git repository
+Cloning with configured refspecs honoured and without tags
+Cloning repository https://github.com/elciak82/se_hello_printer_app.git
+ > git init /var/jenkins_home/workspace/se_hello_printer_app_master-NMQLG2NADFLIVXB4AW7EJES5BSHVPD7KVPQ6D6QFPW622TWG44IA # timeout=10
+Fetching upstream changes from https://github.com/elciak82/se_hello_printer_app.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --no-tags --progress https://github.com/elciak82/se_hello_printer_app.git +refs/heads/master:refs/remotes/origin/master
+ > git config remote.origin.url https://github.com/elciak82/se_hello_printer_app.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/master:refs/remotes/origin/master # timeout=10
+ > git config remote.origin.url https://github.com/elciak82/se_hello_printer_app.git # timeout=10
+Fetching without tags
+Fetching upstream changes from https://github.com/elciak82/se_hello_printer_app.git
+using GIT_ASKPASS to set credentials 
+ > git fetch --no-tags --progress https://github.com/elciak82/se_hello_printer_app.git +refs/heads/master:refs/remotes/origin/master
+Checking out Revision cddf85097a9a0a6fe0bcff83e7ae71b042da3a2a (master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f cddf85097a9a0a6fe0bcff83e7ae71b042da3a2a
+Commit message: "aktualizacja pliku README"
+First time build. Skipping changelog.
