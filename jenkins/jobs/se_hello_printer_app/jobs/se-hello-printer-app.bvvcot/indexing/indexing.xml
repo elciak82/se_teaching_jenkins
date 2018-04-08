@@ -4,7 +4,9 @@
     <hudson.model.CauseAction>
       <causeBag class="linked-hash-map">
         <entry>
-          <jenkins.branch.BranchIndexingCause/>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
           <int>1</int>
         </entry>
       </causeBag>
@@ -17,8 +19,8 @@
     <completeBuild>true</completeBuild>
   </result>
   <durations>
-    <long>1591</long>
+    <long>1933</long>
   </durations>
-  <timestamp>1523187114688</timestamp>
-  <duration>1591</duration>
+  <timestamp>1523188589263</timestamp>
+  <duration>1933</duration>
 </jenkins.branch.MultiBranchProject_-BranchIndexing>

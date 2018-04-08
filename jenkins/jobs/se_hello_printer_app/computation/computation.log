@@ -1,11 +1,11 @@
-Started
-[Sun Apr 08 11:31:48 UTC 2018] Starting organization scan...
-[Sun Apr 08 11:31:48 UTC 2018] Updating actions...
+Started by user [8mha:////4H04+28D6LOozT7pjuBwHUZCHLlFzsnvEWai4xm+gGr/AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+[Sun Apr 08 11:56:22 UTC 2018] Starting organization scan...
+[Sun Apr 08 11:56:22 UTC 2018] Updating actions...
 Looking up details of elciak82...
 Organization URL: [8mha:////4KJyLKaFOYsT9bkSGhJrX+6qtuM/t1uKkHgcJlxz2u+PAAAAmx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWGQzigpKSi20tdPzyzJKE0C6srVT81JzkzMtjACAOvvlCqgAAAA[0melle
-[Sun Apr 08 11:31:48 UTC 2018] Consulting GitHub Organization
-[8mha:////4PBucERoFAzIdwgfaJIkWhH5q0/32OyoFB6EE3Ic20CWAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrYzbgDA7hFEjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
-[8mha:////4BuS5A1wB4/BGQ42BBDFJ/989KLiy5DsRfcjTY30IXPRAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrazewCDxGIAjgAAAA==[0mLooking up repositories of myself elciak82
+[Sun Apr 08 11:56:23 UTC 2018] Consulting GitHub Organization
+[8mha:////4LpNvkwE0pOp2scXXBc4rawK9EuSkVbVHWC4t5lv8GBSAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUlk/FwC0OdmzjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+[8mha:////4CwxO5OArFMu8Vz7wfrKVzT4BE9x7jZ5TDlugvalUkUOAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtkAcQAlBvqVjgAAAA==[0mLooking up repositories of myself elciak82
 Proposing IT-ISSUES
 Examining [8mha:////4Gy7foKTd/ogyHckGvDgR/sCQWW44aMe9K8a3GD0tRj6AAAApR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQKmFQzSgpKSi20tdPzyzJKE0C6srVT81JzkzMtjDS9wzR9QwODnUNBgBn5SJPqgAAAA==[0melciak82/IT-ISSUES
 
@@ -28,7 +28,7 @@ Examining [8mha:////4Gy7foKTd/ogyHckGvDgR/sCQWW44aMe9K8a3GD0tRj6AAAApR+LCAAAAAA
 Finished examining elciak82/IT-ISSUES
 
 Proposing mikroprojekt-selenium
-[8mha:////4Ju+yvDSdanSzab3N1XjLfQGZi2FZUbv+U1l/4FNnSfbAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrYr0gDQW9DTjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+[8mha:////4LUnynwTtEp0SazKutw9PVkM3pJAC/698T07a2cnkVJtAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtmwywAKp6lfjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
 Examining [8mha:////4JzNCuqfBOhfl9dh8o4U3tqWRe6rHVxs3CmS2VBJv2q3AAAAsB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQK2EwzCgpKSi20tdPzyzJKE0C6srVT81JzkzMtjDSz83MLsovKMrPSs0u0S1OBdqeWZoLAPF5cua2AAAA[0melciak82/mikroprojekt-selenium
 
   Checking branches...
@@ -54,7 +54,7 @@ Examining [8mha:////4JzNCuqfBOhfl9dh8o4U3tqWRe6rHVxs3CmS2VBJv2q3AAAAsB+LCAAAAAA
 Finished examining elciak82/mikroprojekt-selenium
 
 Proposing nauka_gita
-[8mha:////4JiF++7Bzd+TVNcV8LP9vRCoAH6xYb+xURiBbZ1+/fF+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrabiQC/va7WjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+[8mha:////4FwglPUiUsvKptIRIMgBjU6C8KNf7H5CURJ73uLSCkgPAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtmYkwD6tiRYjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
 Examining [8mha:////4Px5Xatgnudds9NpMgLkrAReLEFTEz/mNqx9XYI+vbVVAAAApR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLmFQyygpKSi20tdPzyzJKE0C6srVT81JzkzMtjDSz0sszU6MB8okAgDW27hjqwAAAA==[0melciak82/nauka_gita
 
   Checking branches...
@@ -84,7 +84,7 @@ Examining [8mha:////4Px5Xatgnudds9NpMgLkrAReLEFTEz/mNqx9XYI+vbVVAAAApR+LCAAAAAA
 Finished examining elciak82/nauka_gita
 
 Proposing se_hello_printer_app
-[8mha:////4Ned0fnkx9qvEFa2fAMa7XRTp7hmbmUmd32hYihJPO/PAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrb7eQCoB0sQjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+[8mha:////4CVM6tN0X7gsLFMniYyjUv30WZ2FWbqXLIB+DXWGp7MbAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtnkHAChy0amjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
 Examining [8mha:////4CP8B7IgM3CdqKBu86bw/H7R3vkG7Acd5W6H0MsWOuHPAAAArx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQLWEwyCgpKSi20tdPzyzJKE0C6srVT81JzkzMtjDSL06Nz0jNycmPLwAaXpJaFJ9YUAAA0T1SILUAAAA=[0melciak82/se_hello_printer_app
 
   Checking branches...
@@ -104,7 +104,7 @@ Examining [8mha:////4CP8B7IgM3CdqKBu86bw/H7R3vkG7Acd5W6H0MsWOuHPAAAArx+LCAAAAAA
 Finished examining elciak82/se_hello_printer_app
 
 Proposing se_teaching_jenkins
-[8mha:////4BjCf7rLe7cXQ1Fm3mxcvYSeSu9FhTWWg/ZzFJUGfhYjAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrYnJgB6UEenjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+[8mha:////4K/Oc0K10peBLUdXD1xvXwGY6BejyrCh+vHsUHjDpMkUAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtmMOgAiYwu2jgAAAA==[0mConnecting to https://api.github.com using elciak82/******
 Examining [8mha:////4LUmnALnVryfiwk5m1DZDbLZ4HTQexcf/1mOW6XAR9n5AAAArh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQKWHQzygpKSi20tdPzyzJKE0C6srVT81JzkzMtjDSL06NL0lNTM4AmhyflZqXnZlXDABOAtKytAAAAA==[0melciak82/se_teaching_jenkins
 
   Checking branches...
@@ -126,7 +126,7 @@ Examining [8mha:////4LUmnALnVryfiwk5m1DZDbLZ4HTQexcf/1mOW6XAR9n5AAAArh+LCAAAAAA
 Finished examining elciak82/se_teaching_jenkins
 
 Proposing shiny-umbrella
-[8mha:////4JR0DjMLkwB1pOHb9HS/XkjxsTVuaDNfsM75+vl/iTKhAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrYXWwBWnErmjgAAAA==[0mConnecting to https://api.github.com using elciak82/******
+[8mha:////4NyfvvTbJ2geXR8ZEPd/vfAl6fO3xcWotBwEdkiS+JKHAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtnc1QA8scU9jgAAAA==[0mConnecting to https://api.github.com using elciak82/******
 Examining [8mha:////4JYUT+5n+nL1qq4rMKh3qow8FGzdbAILtFCsk+jVRHVnAAAAqh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQL2HQyigpKSi20tdPzyzJKE0C6srVT81JzkzMtjDSL87IzKvULc1NKkrNyUkEAE/BB6+vAAAA[0melciak82/shiny-umbrella
 
   Checking branches...
@@ -151,6 +151,6 @@ Examining [8mha:////4JYUT+5n+nL1qq4rMKh3qow8FGzdbAILtFCsk+jVRHVnAAAAqh+LCAAAAAA
 
 Finished examining elciak82/shiny-umbrella
 
-[8mha:////4GIvVT0ApcDvlgl2Yqbxb8LrFR2DtYy4ulQZTQqRroqlAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUrY3/QB2sC0zjgAAAA==[0m6 repositories were processed
-[Sun Apr 08 11:31:57 UTC 2018] Finished organization scan. Scan took 8.8 sec
+[8mha:////4KipXqXjJpQ4wJaz3ULlLD5aVxdTlEwC2ee/tXBK9kzxAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHTSUtnCEwCD3AkPjgAAAA==[0m6 repositories were processed
+[Sun Apr 08 11:56:33 UTC 2018] Finished organization scan. Scan took 10 sec
 Finished: SUCCESS
