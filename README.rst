@@ -31,11 +31,11 @@ Related
 - https://github.com/sheehan/job-dsl-gradle-example
 
 4. W jankinsie:
-- klik nowy projekt,
-- wpisz nazwę projektu,
-- wybierz organization,
-- OWNER - nazwa uzytkownika z hithuba
-- klik Add wybierz Jankins
-- wpisz uzytkownika i hasło z githuba (wymarz to co jest) bez ID i description
-- klik Add
-- klik save
+  - klik nowy projekt,
+  - wpisz nazwę projektu,
+  - wybierz organization,
+  - OWNER - nazwa uzytkownika z hithuba
+  - klik Add wybierz Jankins
+  - wpisz uzytkownika i hasło z githuba (wymarz to co jest) bez ID i description
+  - klik Add
+  - klik save
