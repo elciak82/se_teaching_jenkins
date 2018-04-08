@@ -17,10 +17,25 @@ Jenkins
 
      cat jenkins/secrets/initialAdminPassword // WSZYSTKO NA ROOT wpisac w konsoli, wygeneruje sie hasło, wpisac je na stronie 127.0.0.1:8080
 
-3. Wybierz *Suggested plugins*.
+     HASŁO: 2a97df40dfaf48e9b41d9abfb8726fdf
+     LOGIN: admin
+
+
+3. Wybierz *Suggested plugins*. //INSTALACJA SUGEROWANYCH WTYCZEK
+   Potem mkontynuuj jako administrator!!
 
 
 Related
 -------
 
 - https://github.com/sheehan/job-dsl-gradle-example
+
+4. W jankinsie:
+- klik nowy projekt,
+- wpisz nazwę projektu,
+- wybierz organization,
+- OWNER - nazwa uzytkownika z hithuba
+- klik Add wybierz Jankins
+- wpisz uzytkownika i hasło z githuba (wymarz to co jest) bez ID i description
+- klik Add
+- klik save
